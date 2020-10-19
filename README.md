@@ -17,7 +17,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Ronicley)](https://github.com/Ronicley)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Ronicley)](https://github.com/Ronicley)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Ronicley)](https://gitlab.com/Ronicley)
-[![WebStorm
+
 
 ### 🏆 Github Status
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ronicley)
